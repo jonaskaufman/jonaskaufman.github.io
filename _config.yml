@@ -1,3 +1,2 @@
 name: Jonas Kaufman
 markdown: kramdown
-exclude: [css/,js/]
