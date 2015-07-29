@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Welcome"
+subtitle: ""
+date:  2015-07-30 12:00:00
+header-img: "img/welcome-bg.jpg"
+---
+<p>
+Welcome to my new personal website!
+</p>
+<p>
+Bear with me while I learn about web development and be on the lookout for some content soon.
+</p>
