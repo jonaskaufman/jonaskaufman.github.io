@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<header class="masthead">
+   <nav class="masthead-nav--small">
+   	<a href="{{ site.baseurl }}/">{{ site.name }}</a>
+   	//
+    {% for nav in site.nav %}
+    <a href="{{ site.baseurl }}/{{ nav.href }}">{{ nav.name }}</a>
+    {% endfor %}
+  	</nav>
+</header>
+<div class="content page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  {{ content }}
+</div>

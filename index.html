@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<header class="masthead">
+  <h1 class="masthead-title">
+    <a href="{{ site.baseurl }}/">{{ site.name }}
+<!--     <a href="{{ site.baseurl }}/">{{ site.name }}<span>&#39;s blog</span></a> -->
+  </h1>
+  <nav class="masthead-nav">
+    {% for nav in site.nav %}
+    <a href="{{ nav.href }}">{{ nav.name }}</a>
+    {% endfor %}
+  </nav>
+</header>
+
+<p>
+	Welcome to my personal website! Here you can find information <a href="about">about</a> me and what I like to <a href="projects">do</a>. I may also post things from time to time.
+</p>
+
+<p>
+	<img src="/img/welcome.jpg" alt="welcome">
+</p>
