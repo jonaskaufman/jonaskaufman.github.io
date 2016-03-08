@@ -9,12 +9,12 @@
   {% seo %}
 </head>
 <body>
-  <div class="container">
-    {{ content }}
+  <div class="wrapper">
+    <div class="container">
+      {{ content }}
+    </div>
+<!--     <div class="push"></div> -->
   </div>
+  <div class="footer">Copyright &copy; {{ site.name }} {{ site.time | date: '%Y' }}. Theme based on <a href="https://github.com/gfjaru/Kiko">Kiko</a>.</div>
 </body>
 </html>
-
-<!-- <footer>
-	<center><p class="masthead">Copyright &copy; {{ site.name }} {{ site.time | date: '%Y' }}</p></center>
-</footer> -->
