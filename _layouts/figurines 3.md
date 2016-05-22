@@ -1,0 +1,4 @@
+---
+title: Figurines
+permalink: /figurines/
+---

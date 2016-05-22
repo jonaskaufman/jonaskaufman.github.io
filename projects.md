@@ -4,8 +4,17 @@ permalink: /projects/
 ---
 
 <p class="lead"> Woodworking </p>
+I have done a bit of woodworking and sculpture, from carving small figurines to building large furniture pieces. Here are some of those projects:
 
+[Hakodome](/hakodome)
 
+[Sea Devil](/seadevil)
+
+[Log Furniture](/logs)
+
+[Figurines](/figurines)
+
+![woodworking](/img/hakodome/woodworking.jpg){: .center}
 
 <p class="lead"> Music </p>
 
