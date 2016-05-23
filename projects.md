@@ -4,6 +4,10 @@ permalink: /projects/
 ---
 
 <p class="lead"> Woodworking </p>
+
+
+![woodworking](/img/hakodome/woodworking.jpg){: .center}
+
 I have done a bit of woodworking and sculpture, from carving small figurines to building large furniture pieces. Here are some of those projects:
 
 [Hakodome](/hakodome)
@@ -13,8 +17,6 @@ I have done a bit of woodworking and sculpture, from carving small figurines to 
 [Log Furniture](/logs)
 
 [Figurines](/figurines)
-
-![woodworking](/img/hakodome/woodworking.jpg){: .center}
 
 <p class="lead"> Music </p>
 
