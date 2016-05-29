@@ -9,8 +9,6 @@ I have done a bit of woodworking and sculpture, from carving small figurines to 
 
 ![woodworking](/img/hakodome/woodworking.jpg){: .center}
 
-Here are some of those projects:
-
 [Hakodome](/hakodome)
 
 [Sea Devil](/seadevil)
