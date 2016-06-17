@@ -3,7 +3,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a junior physics major at [Harvey Mudd College](http://hmc.edu) in Claremont, CA. I'm interested in materials engineering, computational modelling, and additive manufacturing technologies.
+I'm a junior physics major at [Harvey Mudd College](http://hmc.edu) in Claremont, CA. I'm interested in materials engineering and computational modelling for advanced energy and manufacturing applications.
 
 ![me](/img/me.jpg){: .center}
 
