@@ -7,9 +7,9 @@ permalink: /projects/
 
 I have done a bit of woodworking and sculpture, from carving small figurines to building large furniture pieces.
 
-![woodworking](/img/hakodome/woodworking.jpg){: .center}
+![woodworking](/img/woodworking.jpg){: .center}
 
-Here are some things I've made.
+Here are some of the things I've made:
 
 [Hakodome](/hakodome)
 
