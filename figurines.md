@@ -2,7 +2,7 @@
 title: Figurines
 permalink: /figurines/
 ---
-Here are some wooden figurines I have carved. I use and highly recommend [this book](http://www.amazon.com/Technique-Scandinavian-Style-Woodcarving-Step-Step/dp/1565232305) for instructions and ideas.
+These are some wooden figurines I've carved. I use and highly recommend [this book](http://www.amazon.com/Technique-Scandinavian-Style-Woodcarving-Step-Step/dp/1565232305) for instructions and ideas.
 
 ![bear](/img/figurines/bear_1.jpg){: .center}
 Bear
