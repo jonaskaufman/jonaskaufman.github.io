@@ -9,4 +9,4 @@ I'm a senior physics major at [Harvey Mudd College](http://hmc.edu) in Claremont
 
 Outside of my studies, I enjoy woodworking, Brazilian Jiu Jitsu, running, hiking, and making music.
 
-View my resume [here](/files/jlk_resume.pdf)
+View my resume [here](/files/jlk_resume.pdf).
