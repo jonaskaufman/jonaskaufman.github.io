@@ -1,4 +1,0 @@
----
-title: Hakodome
-permalink: /hakodome/
----
