@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 name:               "Jonas Kaufman"
 description:        ""
 exclude: ["README.md"]
+url:                "jonaskaufman.com"
